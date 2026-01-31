@@ -1,14 +1,41 @@
 # Movi - Flutter App
 
+- 🔭 I’m currently working on [Building mobile apps with Flutter](https://github.com/ahmedhamada202113227-maker/dasHboard)
+
+- 🌱 I’m currently learning **Advanced Flutter • Clean Architecture • State Management**
+
+- 👯 I’m looking to collaborate on **Flutter & Mobile App Projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ahmedhamada202113227-maker](https://github.com/ahmedhamada202113227-maker)
+
+- 💬 Ask me about **Flutter, Android, Mobile App Development**
+
+- 📫 How to reach me **ahmedhamada202113227@gmail.com**
+
+- 📄 Know about my experiences [## 💻 Technical Experience - **Flutter & Android Development** Built multiple cross-platform mobile apps with Flutter, focusing on clean architecture and scalable code. - **Git & GitHub** Experienced in version control, branching strategies, pull requests, and collaborative workflows. - **Firebase & Backend Integration** Integrated apps with Firebase Auth, Firestore, and Cloud Functions. - **UI/UX Implementation** Designed intuitive and responsive user interfaces, following best practices for user experience. ## 🧠 Soft Skills - Problem Solving & Logical Thinking - Team Collaboration & Communication - Time Management & Productivity](## 💻 Technical Experience - **Flutter & Android Development** Built multiple cross-platform mobile apps with Flutter, focusing on clean architecture and scalable code. - **Git & GitHub** Experienced in version control, branching strategies, pull requests, and collaborative workflows. - **Firebase & Backend Integration** Integrated apps with Firebase Auth, Firestore, and Cloud Functions. - **UI/UX Implementation** Designed intuitive and responsive user interfaces, following best practices for user experience. ## 🧠 Soft Skills - Problem Solving & Logical Thinking - Team Collaboration & Communication - Time Management & Productivity)
+
+
+
 ## 📱 نظرة عامة
-تطبيق موبايل متكامل لمساعدة المستخدمين على الإقلاع عن العادات السلبية من خلال:
-<!-- - تتبع يومي للتقدم
-- رسائل تحفيزية منتظمة
-- تقويم شهري للأيام الناجحة
-- تتبع الصلوات الخمس
-- مذكرات شخصية
-- نظام مكافآت محفز
-- إعدادات قابلة للتخصيص -->
+
+
+🎬 Movie App
+
+Movie App is a mobile application designed for movie enthusiasts to discover, explore, and track movies easily.
+The app focuses on clean UI/UX, smooth navigation, and performance while providing users with rich movie details, search functionality, and personalized features.
+
+Built with Flutter and following MVVM architecture, the app is scalable, maintainable, and ready for future enhancements.
+
+
+🚀 Features
+
+- 🔍 Browse and search movies by title, genre, or release year
+- ⭐ View movie details (description, cast, rating, trailer)
+- ❤️ Save favorite movies for quick access
+- 📅 Track upcoming releases
+- 📊 Display trending and top-rated movies
+- 📱 Responsive and intuitive UI
+
 
 ## 🏗️ البنية المعمارية
 التطبيق مبني على نمط **MVVM** (Model-View-ViewModel):
