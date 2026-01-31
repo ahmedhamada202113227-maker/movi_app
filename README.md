@@ -1,3 +1,29 @@
+<h1 align="center">Hi 👋, I'm Ahmed H. Elgazar</h1>
+<h3 align="center">I'm a passionate Software Developer specializing in Flutter and Android. I enjoy building clean, scalable mobile applications and constantly improving my skills. Currently focused on clean architecture, performance, and great user experiences.</h3>
+
+- 🔭 I’m currently working on [Building mobile apps with Flutter](https://github.com/ahmedhamada202113227-maker/dasHboard)
+
+- 🌱 I’m currently learning **Advanced Flutter • Clean Architecture • State Management**
+
+- 👯 I’m looking to collaborate on **Flutter & Mobile App Projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ahmedhamada202113227-maker](https://github.com/ahmedhamada202113227-maker)
+
+- 💬 Ask me about **Flutter, Android, Mobile App Development**
+
+- 📫 How to reach me **ahmedhamada202113227@gmail.com**
+
+- 📄 Know about my experiences [## 💻 Technical Experience - **Flutter & Android Development** Built multiple cross-platform mobile apps with Flutter, focusing on clean architecture and scalable code. - **Git & GitHub** Experienced in version control, branching strategies, pull requests, and collaborative workflows. - **Firebase & Backend Integration** Integrated apps with Firebase Auth, Firestore, and Cloud Functions. - **UI/UX Implementation** Designed intuitive and responsive user interfaces, following best practices for user experience. ## 🧠 Soft Skills - Problem Solving & Logical Thinking - Team Collaboration & Communication - Time Management & Productivity](## 💻 Technical Experience - **Flutter & Android Development** Built multiple cross-platform mobile apps with Flutter, focusing on clean architecture and scalable code. - **Git & GitHub** Experienced in version control, branching strategies, pull requests, and collaborative workflows. - **Firebase & Backend Integration** Integrated apps with Firebase Auth, Firestore, and Cloud Functions. - **UI/UX Implementation** Designed intuitive and responsive user interfaces, following best practices for user experience. ## 🧠 Soft Skills - Problem Solving & Logical Thinking - Team Collaboration & Communication - Time Management & Productivity)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/ahmed-hamada-elgazar-003442304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ahmed-hamada-elgazar-003442304" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/12585" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="12585" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+
 # Movi - Flutter App
 
 - 🔭 I’m currently working on [Building mobile apps with Flutter](https://github.com/ahmedhamada202113227-maker/dasHboard)
